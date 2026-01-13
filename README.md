@@ -1,6 +1,6 @@
 ![MasterHead](https://freerangestock.com/sample/140450/cyber-security-concept--shield-padlock-on-computer-code.jpg)
 
-<h3 align="left">&nbsp; A passionate penetration tester from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate penetration tester </h3>
 
 - 🔭 I am interested in cybersecurity
 
