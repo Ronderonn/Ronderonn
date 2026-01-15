@@ -1,6 +1,6 @@
 ![MasterHead](https://freerangestock.com/sample/140450/cyber-security-concept--shield-padlock-on-computer-code.jpg)
 
-<h3 align="left">&nbsp; A passionate SOC Analayst </h3>
+<h3 align="left">&nbsp; A passionate Cyber Security </h3>
 
 - 🔭 I am interested in Cloud Security
 
